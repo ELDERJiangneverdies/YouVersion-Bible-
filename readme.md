@@ -11,6 +11,7 @@
 - 保留所有现有功能（朗读、对比、笔记等）  
 
 ### 安装
+https://greasyfork.org/zh-CN/scripts/559451-youversion-bible-reading-optimizer
 1. 安装 [Tampermonkey][1]（或同类用户脚本管理器）  
 2. 点击「Raw」→ 安装  
 3. 打开 [https://www.bible.com/bible][2] 即可生效  
@@ -33,6 +34,7 @@ Chrome ≥ 105、Edge ≥ 105、Firefox ≥ 113、Safari ≥ 16
 - All original features (audio, parallel, highlights) remain intact  
 
 ### Install
+https://greasyfork.org/zh-CN/scripts/559451-youversion-bible-reading-optimizer
 1. Install [Tampermonkey][1] (or any userscript manager)  
 2. Click「Raw」→ Install  
 3. Visit [https://www.bible.com/bible][2] and enjoy  
